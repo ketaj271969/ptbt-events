@@ -1,0 +1,140 @@
+0000.001 (0) Opened log file at time: Thu, 25 Jan 2018 17:36:17 +0000 on http://localhost:34080/ptbt-events
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.2 PHP: 7.1.9 (apache2handler, Windows NT ALIEN-07DE6V7 10.0 build 16299 (Windows 10) i586) MySQL: 5.5.5 WPLANG: en_US Server: Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 32.9M | 2M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 54184.3 MB
+0000.028 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.035 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.043 (0) Set semaphore last lock (fd) time to 2018-01-25 17:36:17
+0000.046 (0) Semaphore lock (fd) complete
+0000.059 (0) Backup run: resumption=0, nonce=92b950504d92, begun at=1516901777 (0s ago), job type=backup
+0000.065 (0) Scheduling a resumption (1) after 300 seconds (1516902077) in case this run gets aborted
+0000.079 (0) Checking if we have a zip executable available
+0000.085 (0) Creation of backups of directories: beginning
+0000.098 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.666 (0) Total entities for the zip file: 380 directories, 2498 files (0 skipped as non-modified), 47.9 MB
+0001.743 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.817 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.896 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.960 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.046 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.052 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.1 MB, 2498 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.996 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 600 files added (on-disk size: 3080.3 KB)
+0003.078 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 700 files added (on-disk size: 3080.3 KB)
+0003.150 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 800 files added (on-disk size: 3080.3 KB)
+0003.223 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 900 files added (on-disk size: 3080.3 KB)
+0003.304 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1000 files added (on-disk size: 3080.3 KB)
+0003.310 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.6 MB, 2498 files batched, 501 (1002) added so far); re-opening (prior size: 3080.3 KB)
+0005.567 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1100 files added (on-disk size: 7663.6 KB)
+0005.629 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1200 files added (on-disk size: 7663.6 KB)
+0005.686 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1300 files added (on-disk size: 7663.6 KB)
+0005.746 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1400 files added (on-disk size: 7663.6 KB)
+0005.802 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1500 files added (on-disk size: 7663.6 KB)
+0005.807 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.6 MB, 2498 files batched, 501 (1503) added so far); re-opening (prior size: 7663.6 KB)
+0007.663 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1600 files added (on-disk size: 12006.6 KB)
+0007.730 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1700 files added (on-disk size: 12006.6 KB)
+0007.791 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1800 files added (on-disk size: 12006.6 KB)
+0007.849 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 1900 files added (on-disk size: 12006.6 KB)
+0007.913 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 2000 files added (on-disk size: 12006.6 KB)
+0007.920 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.2 MB, 2498 files batched, 501 (2004) added so far); re-opening (prior size: 12006.6 KB)
+0008.758 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 2100 files added (on-disk size: 13602.9 KB)
+0008.824 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 2200 files added (on-disk size: 13602.9 KB)
+0008.903 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 2300 files added (on-disk size: 13602.9 KB)
+0008.968 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip.tmp: 2400 files added (on-disk size: 13602.9 KB)
+0010.010 (0) Created plugins zip (0) - 14382.9 KB in 9.9 s (1453.3 KB/s) (sha1: 6512054d70ac42a71ccb8f19d9c3543590ea4fc5, sha256: 22727595ff7fc740273793744f534b2d7849e73d19f55e3c047a3ee8bbbb0a8f)
+0010.022 (0) Beginning creation of dump of themes (split every: 400 MB)
+0010.131 (0) Total entities for the zip file: 24 directories, 144 files (0 skipped as non-modified), 2.9 MB
+0010.204 (0) Zip: backup_2018-01-25-1736_ptbt_events_92b950504d92-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.434 (0) Created themes zip (0) - 2256.8 KB in 0.4 s (5697.1 KB/s) (sha1: e9697016f7ad77e50ed13e9dab9e5ebd5dbf7b88, sha256: 7b73224b4e5821c74f51c3c39ab6a45425e8504cee116b64fdb6feb7fba80aa4)
+0010.448 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0010.452 (0) Looking for candidates to back up in: C:\xampp\htdocs\ptbt-events/wp-content/uploads
+0010.456 (0) finding files: 2018: adding to list (1)
+0010.459 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0010.484 (0) Total entities for the zip file: 2 directories, 0 files (0 skipped as non-modified), 0 MB
+0010.506 (0) Created uploads zip (0) - 0.2 KB in 0 s (7.9 KB/s) (sha1: dd64741b2a72870f9713a2281149584f72d6428b, sha256: 73c5efba6eee72a8584c32a324a15fb0ab4b55e5c5afe9d65a837a14f201bf2d)
+0010.517 (0) Beginning backup of other directories found in the content directory (index: 0)
+0010.520 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0010.523 (0) Looking for candidates to back up in: C:\xampp\htdocs\ptbt-events/wp-content
+0010.526 (0) finding files: index.php: adding to list (1)
+0010.529 (0) finding files: plugins: skipping: this is the plugins directory
+0010.532 (0) finding files: themes: skipping: this is the themes directory
+0010.534 (0) finding files: updraft: skipping: this is the updraft directory
+0010.537 (0) finding files: upgrade: skipping: excluded by options
+0010.541 (0) finding files: uploads: skipping: this is the uploads directory
+0010.564 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0010.605 (0) Created others zip (0) - 0.1 KB in 0 s (3.1 KB/s) (sha1: cd4442013ab3122232b4dfef0efc34cd6f6519b0, sha256: e261483939e968a48a455dd8a6624b398a9eef8b5ce60536d15de26e8ffca812)
+0010.625 (0) Saving backup status to database (elements: 8)
+0010.632 (0) Beginning creation of database dump (WordPress DB)
+0010.655 (0) Table ptbte_options: Total expected rows (approximate): 168
+0010.730 (0) Table ptbte_options: Total rows added: 168 in 0.07 seconds
+0010.739 (0) Table ptbte_options: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_options.table.gz - 160.8 KB)
+0010.753 (0) Table ptbte_users: Total expected rows (approximate): 1
+0010.769 (0) Table ptbte_users: Total rows added: 1 in 0.01 seconds
+0010.778 (0) Table ptbte_users: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_users.table.gz - 0.6 KB)
+0010.791 (0) Table ptbte_usermeta: Total expected rows (approximate): 18
+0010.800 (0) Table ptbte_usermeta: Total rows added: 18 in 0.01 seconds
+0010.808 (0) Table ptbte_usermeta: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_usermeta.table.gz - 0.9 KB)
+0010.822 (0) Table ptbte_commentmeta: Total expected rows (approximate): 0
+0010.831 (0) Table ptbte_commentmeta: Total rows added: 0 in 0.01 seconds
+0010.836 (0) Table ptbte_commentmeta: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_commentmeta.table.gz - 0.4 KB)
+0010.846 (0) Table ptbte_comments: Total expected rows (approximate): 1
+0010.860 (0) Table ptbte_comments: Total rows added: 1 in 0.01 seconds
+0010.864 (0) Table ptbte_comments: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_comments.table.gz - 0.7 KB)
+0010.876 (0) Table ptbte_links: Total expected rows (approximate): 0
+0010.889 (0) Table ptbte_links: Total rows added: 0 in 0.01 seconds
+0010.893 (0) Table ptbte_links: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_links.table.gz - 0.4 KB)
+0010.904 (0) Table ptbte_postmeta: Total expected rows (approximate): 55
+0010.915 (0) Table ptbte_postmeta: Total rows added: 55 in 0.01 seconds
+0010.922 (0) Table ptbte_postmeta: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_postmeta.table.gz - 1.6 KB)
+0010.932 (0) Table ptbte_posts: Total expected rows (approximate): 17
+0010.951 (0) Table ptbte_posts: Total rows added: 17 in 0.02 seconds
+0010.961 (0) Table ptbte_posts: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_posts.table.gz - 2 KB)
+0010.973 (0) Table ptbte_term_relationships: Total expected rows (approximate): 1
+0010.986 (0) Table ptbte_term_relationships: Total rows added: 1 in 0.01 seconds
+0010.995 (0) Table ptbte_term_relationships: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_term_relationships.table.gz - 0.4 KB)
+0011.007 (0) Table ptbte_term_taxonomy: Total expected rows (approximate): 1
+0011.023 (0) Table ptbte_term_taxonomy: Total rows added: 1 in 0.01 seconds
+0011.042 (0) Table ptbte_term_taxonomy: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_term_taxonomy.table.gz - 0.4 KB)
+0011.055 (0) Table ptbte_termmeta: Total expected rows (approximate): 0
+0011.067 (0) Table ptbte_termmeta: Total rows added: 0 in 0.01 seconds
+0011.077 (0) Table ptbte_termmeta: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_termmeta.table.gz - 0.4 KB)
+0011.091 (0) Table ptbte_terms: Total expected rows (approximate): 1
+0011.103 (0) Table ptbte_terms: Total rows added: 1 in 0.01 seconds
+0011.112 (0) Table ptbte_terms: finishing file (backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_terms.table.gz - 0.4 KB)
+0011.127 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_options.table.gz (1/12): adding to final database dump
+0011.179 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_users.table.gz (2/12): adding to final database dump
+0011.183 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_usermeta.table.gz (3/12): adding to final database dump
+0011.188 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_commentmeta.table.gz (4/12): adding to final database dump
+0011.192 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_comments.table.gz (5/12): adding to final database dump
+0011.196 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_links.table.gz (6/12): adding to final database dump
+0011.200 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_postmeta.table.gz (7/12): adding to final database dump
+0011.205 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_posts.table.gz (8/12): adding to final database dump
+0011.210 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_term_relationships.table.gz (9/12): adding to final database dump
+0011.214 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_term_taxonomy.table.gz (10/12): adding to final database dump
+0011.218 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_termmeta.table.gz (11/12): adding to final database dump
+0011.222 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db-table-ptbte_terms.table.gz (12/12): adding to final database dump
+0011.239 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db.gz: finished writing out complete database file (160 KB)
+0011.273 (0) Total database tables backed up: 12 (backup_2018-01-25-1736_ptbt_events_92b950504d92-db.gz, size: 169884, sha256)
+0011.286 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0011.289 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0011.291 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0011.293 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-others.zip: others: This file has not yet been successfully uploaded: will queue
+0011.296 (0) backup_2018-01-25-1736_ptbt_events_92b950504d92-db.gz: db: This file has not yet been successfully uploaded: will queue
+0011.298 (0) Saving backup history. Total backup size: 16.4 MB
+0011.305 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0011.315 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0011.318 (0) No remote despatch: user chose no remote backup service
+0011.324 (0) Recording as successfully uploaded: backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip (d19be0f34843b06753c71696b79295de)
+0011.339 (0) Recording as successfully uploaded: backup_2018-01-25-1736_ptbt_events_92b950504d92-themes.zip (260371b9d5533d713d16a9f823f03993)
+0011.360 (0) Recording as successfully uploaded: backup_2018-01-25-1736_ptbt_events_92b950504d92-uploads.zip (4c84cb4f2c498b88fcbbaabc104e99c3)
+0011.371 (0) Recording as successfully uploaded: backup_2018-01-25-1736_ptbt_events_92b950504d92-others.zip (66f369aa69ef65e34e1261d68d3052ff)
+0011.383 (0) Recording as successfully uploaded: backup_2018-01-25-1736_ptbt_events_92b950504d92-db.gz (eb188c30dd9f1806db51e98488577321)
+0011.394 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0011.397 (0) Resume backup (92b950504d92, 0): finish run
+0011.403 (0) Decremented the semaphore (fd) by 1
+0011.408 (0) Semaphore (fd) unlocked
+0011.410 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0011.419 (0) No email will/can be sent - the user has not configured an email address.
+0011.422 (0) The backup apparently succeeded and is now complete
+0000.000 (1) Opened log file at time: Fri, 26 Jan 2018 16:22:42 +0000 on http://localhost:34080/ptbt-events
+0000.003 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.2 PHP: 7.1.9 (apache2handler, Windows NT ALIEN-07DE6V7 10.0 build 16299 (Windows 10) i586) MySQL: 5.5.5 WPLANG: en_US Server: Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.1M | 2M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.006 (1) Free space on disk containing Updraft's temporary directory: 44865.6 MB
+0000.009 (1) This backup task (92b950504d92) is either complete or began over 2 days ago: ending (1516983762.5136, ) (existing jobdata keys: )

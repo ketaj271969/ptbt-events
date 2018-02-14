@@ -1,0 +1,70 @@
+0000.022 () Opened log file at time: Fri, 26 Jan 2018 16:22:04 +0000 on http://localhost:34080/ptbt-events
+0000.023 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.2 PHP: 7.1.9 (apache2handler, Windows NT ALIEN-07DE6V7 10.0 build 16299 (Windows 10) i586) MySQL: 5.5.5 WPLANG: en_US Server: Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35M | 4M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.023 () Free space on disk containing Updraft's temporary directory: 44924.1 MB
+0000.026 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.072 () Entity: db
+0000.072 () restore_backup(backup_file=backup_2018-01-25-1736_ptbt_events_92b950504d92-db.gz, type=db, info=a:0:{}, last_one=)
+0000.073 () Unpacking backup... (backup_2018-01-25-1736_ptbt_events_92b950504d92-db.gz, 0.2 Mb)
+0000.084 () Database successfully unpacked
+0000.085 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.085 () Using direct MySQL access; value of use_mysqli is: 1
+0000.161 () Max packet size: 32 MB
+0000.161 () Entering maintenance mode
+0000.161 () Enabling Maintenance mode&#8230;
+0000.168 () Backup of: http://localhost:34080/ptbt-events
+0000.170 () Content URL: http://localhost:34080/ptbt-events/wp-content
+0000.170 () Uploads URL: http://localhost:34080/ptbt-events/wp-content/uploads
+0000.170 () Old table prefix: ptbte_
+0000.170 () Site information: multisite=0
+0000.172 () New table prefix: ptbte_
+0000.186 () Processing table (InnoDB): ptbte_options
+0000.270 () Restoring prior UD configuration (table: ptbte_options; keys: 3)
+0000.284 () Processing table (InnoDB): ptbte_users
+0000.322 () Processing table (InnoDB): ptbte_usermeta
+0000.369 () Processing table (InnoDB): ptbte_commentmeta
+0000.414 () Processing table (InnoDB): ptbte_comments
+0000.465 () Processing table (InnoDB): ptbte_links
+0000.509 () Processing table (InnoDB): ptbte_postmeta
+0000.556 () Processing table (InnoDB): ptbte_posts
+0000.600 () Processing table (InnoDB): ptbte_term_relationships
+0000.639 () Processing table (InnoDB): ptbte_term_taxonomy
+0000.681 () Processing table (InnoDB): ptbte_termmeta
+0000.731 () Processing table (InnoDB): ptbte_terms
+0000.755 () Unlocking database and leaving maintenance mode
+0000.755 () Disabling Maintenance mode&#8230;
+0000.756 () Finished: lines processed: 42 in 0.67 seconds
+0000.756 () Cleaning up rubbish...
+0000.775 () Entity: plugins
+0000.776 () restore_backup(backup_file=backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:46:"C:\xampp\htdocs\ptbt-events/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0000.776 () Unpacking backup... (backup_2018-01-25-1736_ptbt_events_92b950504d92-plugins.zip, 14 Mb)
+0033.562 () Moving old data: filesystem method / updraft_dir is potentially possible
+0033.562 () Moving old data: can potentially use wp_filesystem method / -old
+0033.563 () Moving old data out of the way...
+0034.230 () Top-level entities being moved: advanced-custom-fields, akismet, custom-post-type-ui, hello.php, index.php, ptbt_events.php, the-events-calendar, updraftplus
+0034.242 () Moving unpacked backup into place...
+0034.835 () Top-level entities being moved: advanced-custom-fields, akismet, custom-post-type-ui, hello.php, index.php, ptbt_events.php, the-events-calendar, updraftplus
+0034.850 () Cleaning up rubbish...
+0034.861 () Entity: themes
+0034.861 () restore_backup(backup_file=backup_2018-01-25-1736_ptbt_events_92b950504d92-themes.zip, type=themes, info=a:2:{s:4:"path";s:45:"C:\xampp\htdocs\ptbt-events/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0034.862 () Unpacking backup... (backup_2018-01-25-1736_ptbt_events_92b950504d92-themes.zip, 2.2 Mb)
+0036.825 () Moving old data: filesystem method / updraft_dir is potentially possible
+0036.826 () Moving old data: can potentially use wp_filesystem method / -old
+0036.826 () Moving old data out of the way...
+0036.864 () Top-level entities being moved: index.php, twentyfifteen, twentyseventeen, twentysixteen
+0036.870 () Moving unpacked backup into place...
+0036.905 () Top-level entities being moved: index.php, twentyfifteen, twentyseventeen, twentysixteen
+0036.910 () Cleaning up rubbish...
+0036.921 () Entity: uploads
+0036.921 () restore_backup(backup_file=backup_2018-01-25-1736_ptbt_events_92b950504d92-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:46:"C:\xampp\htdocs\ptbt-events/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0036.922 () Unpacking backup... (backup_2018-01-25-1736_ptbt_events_92b950504d92-uploads.zip, 0 Mb)
+0036.929 () Moving old data: filesystem method / updraft_dir is potentially possible
+0036.930 () Moving old data: can potentially use wp_filesystem method / -old
+0036.930 () Moving old data out of the way...
+0036.932 () Moving unpacked backup into place...
+0036.935 () Cleaning up rubbish...
+0036.943 () Entity: others
+0036.943 () restore_backup(backup_file=backup_2018-01-25-1736_ptbt_events_92b950504d92-others.zip, type=others, info=a:2:{s:4:"path";s:38:"C:\xampp\htdocs\ptbt-events/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0036.944 () Unpacking backup... (backup_2018-01-25-1736_ptbt_events_92b950504d92-others.zip, 0 Mb)
+0036.959 () Cleaning up rubbish...
+0036.994 () Restore successful!
+0036.995 () Restore successful
